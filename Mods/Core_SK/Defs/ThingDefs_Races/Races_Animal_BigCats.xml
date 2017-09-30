@@ -790,7 +790,6 @@
     <statBases>
       <MoveSpeed>7</MoveSpeed>
       <ComfyTemperatureMin>-40</ComfyTemperatureMin>
-      <ComfyTemperatureMin>0</ComfyTemperatureMin>
       <MarketValue>1200</MarketValue>
     </statBases>
     <race>
